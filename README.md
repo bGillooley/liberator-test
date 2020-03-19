@@ -1,2 +1,0 @@
-# liberator-test
-Begin app
